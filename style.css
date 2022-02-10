@@ -1,0 +1,47 @@
+* {
+    margin: 10px
+}
+
+body {
+    background-color: rgb(94, 185, 185);
+}
+
+h1 {
+    background-color: red;
+   color: white;
+   font-size: 40px;
+   text-align: center;
+}
+
+h2 {
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: medium;
+    color: white;
+    text-align: center;
+}
+
+.center-image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.list-heres-why {
+    color: white; 
+}
+
+.first-image {
+justify-content: center;
+}
+
+.disney-link {
+    text-decoration: none;
+    text-align: center;
+}
